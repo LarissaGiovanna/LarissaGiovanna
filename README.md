@@ -1,16 +1,33 @@
-### Hi there 👋
+### Olá, bem vindo ao meu GitHub!👋
+<br>
 
-<!--
-**LarissaGiovanna/LarissaGiovanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou terminando o Ensino médio e procuro me formar e ingressar na área da tecnologia.
 
-Here are some ideas to get you started:
+![LarissaGiovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarissaGiovanna&show_icons=true&theme=transparent&rank_icon=github&locale=pt-br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### 🤓 Tecnologias que estou aprendendo:
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</div>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaGiovanna&layout=compact&theme=transparent)
+
+- ### 📱Redes Sociais:
+
+<div style="display:flex; flex-direction:column">
+<a href="https://instagram.com/larii.giovanna">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+<a href="https://www.linkedin.com/in/larissa-giovanna-3b8391309/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+</a>
+</div>
+<br>
+<div style="text-align:center">
+<p>Email (entre em contato comigo ou me dê alguma dica):
+<br>
+<a href="https://mail.google.com/mail/#inbox?compose=CllgCJvkXgbsvLlltrHBmFJbVJrJJzxjqrNKDwCZxNsXLQLzmsnwRRDpkvTPgrKbQTVSxrxcHQB">lgiova544@gmail.com
+</div>
