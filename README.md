@@ -1,7 +1,7 @@
 # Olá, bem vindo ao meu GitHub!👋
 <br>
 
-Atualmente estou terminando o Ensino médio e procuro me formar e ingressar na área da tecnologia.
+Atualmente estou estudando algumas coisas e procuro me formar e ingressar na área da tecnologia.
 
 ![LarissaGiovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarissaGiovanna&show_icons=true&theme=transparent&rank_icon=github&locale=pt-br)
 
