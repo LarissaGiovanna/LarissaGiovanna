@@ -19,9 +19,7 @@ Atualmente estou estudando algumas coisas e procuro me formar e ingressar na ár
 - ### 📱Redes Sociais:
 
 <div style="display:flex; flex-direction:column">
-<a href="https://instagram.com/larii.giovanna">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-<a href="https://www.linkedin.com/in/larissa-giovanna-3b8391309/">
+<a href="https://www.linkedin.com/in/larissa-giovanna/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
 </div>
@@ -29,5 +27,5 @@ Atualmente estou estudando algumas coisas e procuro me formar e ingressar na ár
 <div style="text-align:center">
 <p>Email (entre em contato comigo ou me dê alguma dica):
 <br>
-<a href="https://mail.google.com/mail/#inbox?compose=CllgCJvkXgbsvLlltrHBmFJbVJrJJzxjqrNKDwCZxNsXLQLzmsnwRRDpkvTPgrKbQTVSxrxcHQB">lgiova544@gmail.com
+<a href="mailto:lgsc@cesar.school">lgsc@cesar.school.com
 </div>
