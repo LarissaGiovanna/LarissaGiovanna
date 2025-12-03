@@ -27,5 +27,5 @@ Atualmente estou estudando algumas coisas e procuro me formar e ingressar na ár
 <div style="text-align:center">
 <p>Email (entre em contato comigo ou me dê alguma dica):
 <br>
-<a href="mailto:lgsc@cesar.school">lgsc@cesar.school.com
+<a href="mailto:lgsc@cesar.school">lgsc@cesar.school
 </div>
