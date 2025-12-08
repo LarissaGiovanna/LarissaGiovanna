@@ -1,0 +1,78 @@
+main {
+    padding: 0 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.tipos {
+    display: flex;
+    gap: 20px;
+    margin-top: 10px;
+}
+
+.tipos p {
+    cursor: pointer;
+}
+
+.tipos p:hover {
+    color: rgb(167, 167, 167);
+}
+
+.lista-projetos {
+    display: flex;
+}
+
+.projetos article {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.projeto {
+    width: 50%;
+    background-color: white;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.projeto img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    background-color: gray;
+}
+
+.links {
+    margin-top: 10px;
+}
+
+.links span img {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+.links .linkedin img {
+    width: 40px;
+}
+
+#projetos-academicos {
+    display: block;
+}
+
+#projetos-pessoais {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .projetos article {
+        flex-direction: column;
+    }
+    .projeto {
+        width: 100%;
+    }
+}
