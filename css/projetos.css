@@ -35,6 +35,10 @@ main {
     padding: 20px;
     border-radius: 20px;
 }
+.projeto h1 {
+    margin-top: 10px;
+    font-size: 24px;
+}
 
 .projeto img {
     width: 100%;
