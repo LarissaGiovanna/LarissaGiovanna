@@ -46,11 +46,11 @@ header {
     object-fit: cover;
 }
 
-.nomes{
+.nomes {
     cursor: pointer
 }
 
-.nomes p{
+.nomes p {
     font-size: 20px;
     color: rgb(177, 177, 177);
 }

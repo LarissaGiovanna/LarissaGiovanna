@@ -8,7 +8,7 @@ sectAcademicos.addEventListener('click', () => {
         projetosAcademicos.style.display = 'none';
         projetosPessoais.style.display = 'block';
     }
-    else{
+    else {
         projetosAcademicos.style.display = 'block';
         projetosPessoais.style.display = 'none';
     }
@@ -19,7 +19,7 @@ sectPessoais.addEventListener('click', () => {
         projetosAcademicos.style.display = 'none';
         projetosPessoais.style.display = 'block';
     }
-    else{
+    else {
         projetosPessoais.style.display = 'block';
         projetosAcademicos.style.display = 'none';
     }
