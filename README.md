@@ -1,7 +1,10 @@
 # Olá, bem vindo ao meu GitHub!👋
 <br>
 
-Meu nome é Larissa e atualmente estou cursando Ciência da Computação .
+Meu nome é Larissa e atualmente estou cursando Ciência da Computação. Gosto muito de aprender coisas novas e de ajudar as pessoas.
+
+📍 Recife e Região Metropolitana - PE \
+🎓 Ciência da Computação - CESAR School
 
 ![LarissaGiovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarissaGiovanna&show_icons=true&theme=transparent&rank_icon=github&locale=pt-br)
 
@@ -12,6 +15,8 @@ Meu nome é Larissa e atualmente estou cursando Ciência da Computação .
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 <br>
 
@@ -30,3 +35,11 @@ Meu nome é Larissa e atualmente estou cursando Ciência da Computação .
 <br>
 <a href="mailto:lgsc@cesar.school">lgsc@cesar.school
 </div>
+
+- ## Stats:
+  ![](https://github-readme-stats.vercel.app/api?username=LarissaGiovanna&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=LarissaGiovanna&theme=nightowl&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaGiovanna&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+  ### Repositórios onde mais contribuí:
+  ![](https://github-contributor-stats.vercel.app/api?username=LarissaGiovanna&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
