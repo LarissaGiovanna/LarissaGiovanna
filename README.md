@@ -1,8 +1,8 @@
 # Olá, bem vindo ao meu GitHub!👋
 <br>
 
-Meu nome é Larissa e atualmente estou cursando Ciência da Computação. \
-Gosto muito de aprender coisas novas e de ajudar as pessoas.
+Meu nome é Larissa e atualmente estou no 1° período de Ciência da Computação. \
+Gosto muito de aprender e experimentar coisas novas e de ajudar as pessoas.
 
 📍 Recife e Região Metropolitana - PE \
 🎓 Ciência da Computação - CESAR School
