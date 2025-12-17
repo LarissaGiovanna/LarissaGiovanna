@@ -18,8 +18,11 @@ Gosto muito de aprender e experimentar coisas novas e de ajudar as pessoas.
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaGiovanna&layout=compact&theme=transparent)
+<div style="display:'flex';align-items:'center';justify-content:'center';">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaGiovanna&layout=compact&theme=transparent">
+  <img width = "400vw" src="https://github-readme-stats.vercel.app/api?username=LarissaGiovanna&show_icons=true&theme=transparent&rank_icon=github&locale=pt-br&include_all_commits=true&count_private=true">
+  
+</div>
 
 - ### Redes Sociais:
 
@@ -36,9 +39,10 @@ Gosto muito de aprender e experimentar coisas novas e de ajudar as pessoas.
 </div>
   
 - ## Stats:
-  ![LarissaGiovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarissaGiovanna&show_icons=true&theme=transparent&rank_icon=github&locale=pt-br&include_all_commits=true&count_private=true)
+  <div style="display:'flex';align-items:'center';justify-content:'center';">
   
-  ![Stats](https://nirzak-streak-stats.vercel.app/?user=LarissaGiovanna&theme=transparent&hide_border=false)
+  <img width = "400vw" src="https://nirzak-streak-stats.vercel.app/?user=LarissaGiovanna&theme=transparent&hide_border=false">
+  </div>
 
 
   ### Repositórios onde mais contribuí:
