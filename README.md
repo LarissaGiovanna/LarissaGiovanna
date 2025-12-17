@@ -7,8 +7,6 @@ Gosto muito de aprender e experimentar coisas novas e de ajudar as pessoas.
 📍 Recife e Região Metropolitana - PE \
 🎓 Ciência da Computação - CESAR School
 
-![LarissaGiovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarissaGiovanna&show_icons=true&theme=transparent&rank_icon=github&locale=pt-br)
-
 - ### Tecnologias que estou aprendendo:
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-5">
@@ -36,11 +34,12 @@ Gosto muito de aprender e experimentar coisas novas e de ajudar as pessoas.
 <br>
 <a href="mailto:lgsc@cesar.school">lgsc@cesar.school
 </div>
-
+  
 - ## Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=LarissaGiovanna&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=LarissaGiovanna&theme=nightowl&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaGiovanna&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![LarissaGiovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarissaGiovanna&show_icons=true&theme=transparent&rank_icon=github&locale=pt-br&include_all_commits=true&count_private=true)
+  
+  ![Stats](https://nirzak-streak-stats.vercel.app/?user=LarissaGiovanna&theme=transparent&hide_border=false)
+
 
   ### Repositórios onde mais contribuí:
-  ![](https://github-contributor-stats.vercel.app/api?username=LarissaGiovanna&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+  ![](https://github-contributor-stats.vercel.app/api?username=LarissaGiovanna&limit=5&theme=transparent&combine_all_yearly_contributions=true)
