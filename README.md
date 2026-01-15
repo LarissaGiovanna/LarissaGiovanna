@@ -1,7 +1,7 @@
 # Olá, bem vindo ao meu GitHub!👋
 <br>
 
-Meu nome é Larissa e atualmente estou no 1° período de Ciência da Computação. \
+Meu nome é Larissa e atualmente estou no 2° período de Ciência da Computação. \
 Gosto muito de aprender e experimentar coisas novas e de ajudar as pessoas.
 
 📍 Recife e Região Metropolitana - PE \
