@@ -2,7 +2,7 @@
 <br>
 
 Meu nome é Larissa e atualmente estou no 2° período de Ciência da Computação. \
-Gosto muito de aprender e experimentar coisas novas e de ajudar as pessoas.
+Gosto muito de aprender, experimentar coisas novas e de ajudar as pessoas.
 
 📍 Recife e Região Metropolitana - PE \
 🎓 Ciência da Computação - CESAR School
@@ -10,12 +10,14 @@ Gosto muito de aprender e experimentar coisas novas e de ajudar as pessoas.
 - ### Tecnologias que estou aprendendo:
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-3">
+<img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS-3">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  
 </div>
 <br>
 <div style="display:'flex';align-items:'center';justify-content:'center';">
@@ -43,7 +45,3 @@ Gosto muito de aprender e experimentar coisas novas e de ajudar as pessoas.
   
   <img width = "400vw" src="https://nirzak-streak-stats.vercel.app/?user=LarissaGiovanna&theme=transparent&hide_border=false">
   </div>
-
-
-  ### Repositórios onde mais contribuí:
-  ![](https://github-contributor-stats.vercel.app/api?username=LarissaGiovanna&limit=5&theme=transparent&combine_all_yearly_contributions=true)
