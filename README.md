@@ -43,5 +43,5 @@ Gosto muito de aprender, experimentar coisas novas e de ajudar as pessoas.
 - ## Stats:
   <div style="display:'flex';align-items:'center';justify-content:'center';">
   
-  <img width = "400vw" src="https://nirzak-streak-stats.vercel.app/?user=LarissaGiovanna&theme=transparent&hide_border=false">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=LarissaGiovanna&theme=transparent&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
   </div>
