@@ -21,9 +21,8 @@ Gosto muito de aprender, experimentar coisas novas e de ajudar as pessoas.
 </div>
 <br>
 <div style="display:'flex';align-items:'center';justify-content:'center';">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaGiovanna&layout=compact&theme=transparent">
-  <img width = "400vw" src="https://github-readme-stats.vercel.app/api?username=LarissaGiovanna&show_icons=true&theme=transparent&rank_icon=github&locale=pt-br&include_all_commits=true&count_private=true">
-  
+  <img width = "350vw" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LarissaGiovanna&layout=compact&theme=github_dark">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=LarissaGiovanna&show_icons=true&theme=github_dark">
 </div>
 
 - ### Redes Sociais:
